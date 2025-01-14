@@ -4,9 +4,9 @@
   English | <a href="./README.md">简体中文</a>
 </p>
 <p align="center">
-	<a href="https://veasion.github.io/aippt" target="_blank">🔗Demo</a>
+	<a href="https://veasion.github.io/AiPPT" target="_blank">🔗Demo</a>
 	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-	<a href="https://veasion.github.io/aippt/ppt2json.html" target="_blank">📝PPT to JSON</a>
+	<a href="https://veasion.github.io/AiPPT/ppt2json.html" target="_blank">📝PPT to JSON</a>
 	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 	<a href="https://docmee.cn" target="_blank">🌏Official website</a>
 	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
@@ -29,7 +29,7 @@ Commercial level AI generated PPT project, including the following features:
 
 # ✨ AiPPT
 
-Demo: https://veasion.github.io/aippt
+Demo: https://veasion.github.io/AiPPT
 
 [Demo Video](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/aippt.mp4)
 
@@ -41,7 +41,7 @@ https://github.com/veasion/aippt/assets/24989778/24d5654b-09f3-4554-a732-dbffc10
 
 Support uploading PPT and rendering, online editing, and download the edited PPT file.
 
-Demo: https://veasion.github.io/aippt/ppt2json.html
+Demo: https://veasion.github.io/AiPPT/ppt2json.html
 
 
 
