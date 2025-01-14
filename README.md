@@ -4,9 +4,9 @@
   简体中文 | <a href="./README_EN.md">English</a>
 </p>
 <p align="center">
-	<a href="https://veasion.github.io/aippt" target="_blank">🔗在线演示</a>
+	<a href="http://www.veasion.cn/AiPPT/" target="_blank">🔗在线演示</a>
 	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-	<a href="https://veasion.github.io/aippt/ppt2json.html" target="_blank">📝PPT转JSON</a>
+	<a href="http://www.veasion.cn/ppt2json/" target="_blank">📝PPT转JSON</a>
 	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 	<a href="https://docmee.cn" target="_blank">🌏官方网站</a>
 	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
@@ -29,7 +29,7 @@
 
 # ✨ AiPPT
 
-在线体验：https://veasion.github.io/aippt
+在线体验：https://veasion.github.io/AiPPT
 
 
 [演示视频](https://metasign-public.oss-cn-shanghai.aliyuncs.com/github/aippt.mp4)
@@ -42,7 +42,7 @@ https://github.com/veasion/aippt/assets/24989778/24d5654b-09f3-4554-a732-dbffc10
 
 支持上传PPT并渲染，在线编辑，编辑后下载 ppt 文件。
 
-在线体验：https://veasion.github.io/aippt/ppt2json.html
+在线体验：https://veasion.github.io/AiPPT/ppt2json.html
 
 
 
