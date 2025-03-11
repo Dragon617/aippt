@@ -16,6 +16,10 @@
 
 API SDK DEMO：
 
+* iframe demo
+
+  https://github.com/veasion/aippt-ui-iframe
+
 * js demo
 
   https://github.com/veasion/aippt
